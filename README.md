@@ -11,3 +11,6 @@ Representation of Acces modifier
 Objecct oriented method
 Classes and methods
 Recursion
+Bubble sort
+Selection sort
+Insertion sort
