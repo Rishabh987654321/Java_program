@@ -11,7 +11,6 @@ public class SquareRoot {
             if(val==x){
                 return mid;
             }else if (val<x){
-
                 ans=mid;
                 start=mid+1;
             }else{

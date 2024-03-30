@@ -18,7 +18,7 @@ public class recursiveBinarySearch {
     public static void main(String[] args) {
         int[] arr={1,2,3,4,5,6};
         int n=arr.length;
-        int targetidx=RecursiveSearch(arr,2,0,n-1);
+        int targetidx=RecursiveSearch(arr,6,0,n-1);
         System.out.println(targetidx);
     }
 }
