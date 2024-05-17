@@ -14,3 +14,5 @@ Recursion
 Bubble sort
 Selection sort
 Insertion sort
+Binary Search
+Strings
