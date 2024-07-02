@@ -1,18 +1,18 @@
 Java program covering all topics from beginner to advance <br>
 Topics covered:<br>
 Basic syntax,
-Conditional Statements,
+Conditional Statements,<br>
 Loops,
-Function,
+Function,<br>
 Arrays,
-ArrayList,
+ArrayList,<br>
 Number System,
-Representation of Acces modifier,
+Representation of Acces modifier,<br>
 Objecct oriented method,
-Classes and methods,
+Classes and methods,<br>
 Recursion,
-Bubble sort,
+Bubble sort,<br>
 Selection sort,
-Insertion sort,
+Insertion sort,<br>
 Binary Search,
-Strings and StringBuilder
+Strings and StringBuilder<br>
